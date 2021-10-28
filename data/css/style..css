@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+.container {
+    border: 1 black solid;
+}
+
+.heading {
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.list {
+    display: inline-block;
+    vertical-align: top;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.grid {
+    margin-left: 20px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    display: block;
+}
+
+.g-col-6 {
+    display: inline-block;
+}
